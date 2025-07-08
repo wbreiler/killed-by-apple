@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/assets/tombstone.png" alt="tombstone" style="height: 80px; width: 80px; padding: 0 20px;">
-  <h1>Killed by Microsoft</h1>
-  <p>A tribute and log of beloved products and services killed by Microsoft.</p>
+  <h1>Killed by Apple</h1>
+<p>A tribute and log of beloved products and services killed by Apple.</p>
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@ The type of product must be either:
 - `os`: operating systems (i.e. Windows Mobile)
 - `hardware`: a physical object or a family (i.e. Lumia)
 
-If you are not familiar with or do not want to use `git`, submit a [new issue](https://github.com/fabianoriccardi/killed-by-microsoft/issues/new?template=add-an-obituary.md) requesting the change. If you are already familiar with `git`, follow these steps:
+If you are not familiar with or do not want to use `git`, submit a [new issue](https://github.com/wbreiler/killed-by-apple/issues/new?template=add-an-obituary.md) requesting the change. If you are already familiar with `git`, follow these steps:
 
 1. If you haven't already, start by [forking](https://help.github.com/en/articles/fork-a-repo) this repository.
 2. [Create a new branch](https://help.github.com/en/desktop/contributing-to-projects/creating-a-branch-for-your-work) in your fork. Name it using the product you want to add
@@ -86,8 +86,8 @@ Then, to create the production version:
 
 ## Acknowledgements
 
-Thanks to Cody Odgen, author and designer of the graveyard for the products [killed by Google](https://github.com/codyogden/killedbygoogle), that provides the skeleton for *Killed by Microsoft*.
+Thanks to Cody Odgen, author and designer of the graveyard for the products [killed by Google](https://github.com/codyogden/killedbygoogle), that provides the skeleton for *Killed by Apple*.
 
 ## Notes
 
-The practice [*Embrace, Extend, and Extinguish*](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish) seems to be a mantra for  Microsoft, and [many companies](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Microsoft) fell under it. However, I would collect only extinguished products (digital or physical) on this page and not companies. So, for example, Solair, a provider of knowledge and consulting in the IoT field, is excluded.
+The practice [*Embrace, Extend, and Extinguish*](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish) seems to be a mantra for  Apple, and [many companies](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Apple) fell under it. However, I would collect only extinguished products (digital or physical) on this page and not companies. So, for example, Solair, a provider of knowledge and consulting in the IoT field, is excluded.

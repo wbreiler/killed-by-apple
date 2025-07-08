@@ -108,6 +108,6 @@ fetch('graveyard.json').then(response => {
       (a, b) => new Date(b.dateClose) - new Date(a.dateClose)
     );
     // Render the app
-    render(<App data={graveyard} />, document.querySelector('#killedbygoogle'));
+    render(<App data={graveyard} />, document.querySelector('#killedbyapple'));
   });
 });

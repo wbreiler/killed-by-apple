@@ -1,10 +1,10 @@
 {
-  "name": "killedbymicrosoft",
-  "version": "0.8.1",
-  "description": "Part guillotine, part graveyard for Microsoft's doomed apps, services, and hardware.",
+  "name": "killed-by-apple",
+  "version": "0.1.0",
+  "description": "Part guillotine, part graveyard for Apple's doomed apps, services, and hardware.",
   "main": "src/index.js",
-  "repository": "git@github.com:fabianoriccardi/killed-by-microsoft.git",
-  "author": "Fabiano Riccardi",
+  "repository": "git@github.com:wbreiler/killed-by-apple.git",
+  "author": "Will Breiler",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.5.5",

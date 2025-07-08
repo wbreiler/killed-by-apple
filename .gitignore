@@ -68,3 +68,6 @@ public/
 
 # Visual Studio Files
 /.vs
+
+# Visual Studio Code folder
+.vscode/
